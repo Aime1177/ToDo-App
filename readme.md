@@ -33,6 +33,7 @@ flavienaimee.netlify.app
 #Js
   -app.js
   -storage.js
-  -readme.md
 
- #Index.html 
+#Readme.md
+
+ 
